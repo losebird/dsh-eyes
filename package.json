@@ -1,6 +1,6 @@
 {
   "name": "dsh-eyes",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Eyes for official DeepSeek-V4: paste/drag images, PDF, video, Office. Settings pick the vision backend.",
   "type": "module",
   "main": "index.js",
